@@ -1,1 +1,3 @@
-# PyConJP-MediaSponsor
+# PyConJP2020 カンファレンスレポート
+
+- パブリックリポジトリです。
